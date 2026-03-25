@@ -1,0 +1,411 @@
+ls
+ls
+ls
+ls -ahog
+nvim .config/zsh
+cd .config/zsh
+ls
+ls -a
+nvim .zshrc
+lg
+lg
+lg
+lg
+q
+\:q
+dd
+kitten
+man kitten
+kitten themes
+lg
+lg
+lg
+nvim ,
+pymon lg
+lg
+ls
+nvim
+cd .config
+ls
+cd nvim
+nvim .
+nvim .
+ls
+nvim init.lua
+nvim 
+nvim 
+nvim .
+nvim .
+nvim .
+nvim .
+nvim .
+nvim .
+nvim .
+nvim .
+nvim .
+nvim .
+nvim .
+nvim .
+nvim .
+nvim .
+cd ~/Repos/savvy-py
+ls
+nvim .
+ls
+lg
+ls 
+ls -ahog
+cat .zshenv
+nvim
+printenv | grep "ZDOT"
+lg
+lg
+ls
+lg
+cd .config
+ls
+cd nvim
+cd ..
+cd zsh
+ls
+pwd
+printenv | grep "ZDOT"
+cd ~
+ls
+nvim .zsh
+nvim .zshenv
+lg
+lg
+nvim .zshenv
+kitten themes
+kitten themes
+ls
+ls
+ls
+ls
+lsd
+ll
+ls
+cd ~
+ls
+ls -a
+cd .config/zsh
+ls
+git clone --depth=1 https://github.com/mattmc3/antidote.git ${ZDOTDIR:-~}/.antidote\
+
+ls
+antidote
+nvim ~/.zshenv
+nvim ~/.zshenv
+source ~/.zshenv
+nvim ~/.zshenv
+source ~/.zshenv
+antidote install zsh-users/zsh-autosuggestions
+antidote install zsh-users/zsh-syntax-highlighting
+ls
+man tree
+man tree
+man dircolors
+man tree
+source $ZSHRC_DIR
+tree
+tree dircolors
+printenv
+man tree
+pager
+man man
+less 
+ed 
+zshrc
+man man
+printenv
+printenv | grep "MANPAGER"
+zshrc
+source $ZSHRC_DIR
+man man
+zshrc
+man man
+source $ZSHRC_DIR
+man man
+man tree
+dircolors
+man kitten
+kitten icat
+kitten icat
+man kitten
+icat
+kitten 
+kitten update-self
+kitten icat
+kitten icat
+kitten icat
+kitten icat
+sudo apt install imagemagick
+sudo brew install imagemagick
+brew install imagemagick
+kitten icate
+kitten icat
+kitty icat
+pymon src/Predictor.py
+pymon src/Predictor.py
+lg
+zshrc
+cd .config/zsh
+ls
+ls
+nvim ~/.zshenv
+nvim .zshrc
+ll
+ll
+source .zshrc
+nvim .zshrc
+nvim .zshrc
+source .zshrc
+ll
+exa
+exa
+nvim .zshrc
+source .zshrc
+ls
+ll
+ls
+ll
+ls
+ls -a
+ll
+ls .antidote
+ll .antidote
+nvim .zshrc
+nvim .zshrc
+clear
+nvim .
+nvim .zshrc
+lg
+vi
+vi
+zshrc
+cd ~/.config/zsh
+ls
+ll
+ls
+source .zshrc
+ll
+ls
+zshrc
+zshrc
+source .zshrc
+zshrc
+source .zshrc
+source $ZSHRC_DIR
+echo $ZSHRC_DIR
+zshrc
+source $ZSHRC_DIR
+repos
+ls
+cd savvy-py
+ls
+clear
+ls
+ls
+ls
+cd src
+ls
+nvim
+l
+ls
+mkdir targets
+;s
+ls
+cd targets
+mkdir images
+mkdir price
+mkdir status
+mkdir available
+ls
+cd..
+cd ..
+ls
+tree
+man tree
+tree -F
+zshrv
+zshrc
+tree
+tree
+source $ZSHRC_DIR
+tree
+zshrx
+zshrc
+man tree
+man tree
+zshrc
+source $[C
+source $ZSHRC_DIR
+tree
+zshrc
+source $ZSHRC_DIR
+tree
+zshrc
+kitten icat
+kitten icat
+kitty btop
+kitty btop
+kitty btop
+kitty icat etc\
+\
+
+kitty icat
+kitty icat
+man ktity
+zshrc
+source $ZSHRC_DIR
+kitty icat
+brew upgrade kitty
+brew upgrade kitten
+kitty +kitten icat --force-graphics
+kitty icat --force-graphics
+kitty icat
+kitty -v
+printenv
+printenv | grep "COLOR"
+zshrc
+man ls
+zshrc
+man ls
+man tty
+tty
+cd /dev/ttys00
+cd /dev/ttys000
+cd /dev
+ls
+cd -
+ls
+cd -
+cd -
+ls
+find .
+man fine
+man find
+tree
+man tree
+man tree -L 2
+tree -L 2
+tree -L 3
+tree -L 4
+tree -L 5
+tree -L 6
+tree -L 3
+tree -L 2
+zshrc
+tree -L 2
+zshrc
+tree
+source $ZSHRC_DIR
+tree
+tree
+l
+repos
+ls
+cd savvy-py
+ls
+nvim .
+tree
+repos
+tree
+cd savvy-py
+nvim
+nvim 
+ls
+nvimconfig
+ls
+cd lua
+ls
+nvim mappings.lua
+nvim 
+nvim mapp
+nvim mappings.lua
+nvim mappings.lua
+repos
+cd savvy-py
+nvim 
+clear
+nvim .
+nvim .
+nvimconfig
+ls
+cd .
+cd ..
+ls
+cp nvim /nvchadconfig
+ls
+cp nvim /nvchadconfig -rf
+cp .nvim /nvchadconfig
+cp ./nvim /nvchadconfig
+cp ./nvim -rf /nvchadconfig
+mkdir nvchadconfig
+cp ./nvim -rf /nvchadconfig
+mkdir nvchadconfig
+rm nvchadconfig
+ls
+cp ./nvim -rf /nvchadconfig
+cp ./nvim -rf nvchadconfig
+cp nvim -rf nvchadconfig
+cd nv
+cd nvchadconfig
+ls
+cd ..
+cp -r nvim nvchadconfig
+rm -rf nvim
+ls
+[200~LV_BRANCH='release-1.4/neovim-0.9' bash <(curl -s https://raw.githubusercontent.com/LunarVim/LunarVim/release-1.4/neovim-0.9/utils/installer/install.sh)~
+LV_BRANCH='release-1.4/neovim-0.9' bash <(curl -s https://raw.githubusercontent.com/LunarVim/LunarVim/release-1.4/neovim-0.9/utils/installer/install.sh)
+nvim 
+nvim 
+zshrc
+zshrc
+nvim .
+nvim
+zshrc
+nvim
+/Users/sethhager/.local/bin/lvim
+/Users/sethhager/.local/bin/lvim
+/Users/sethhager/.local/bin/lvim
+/Users/sethhager/.local/bin/lvim
+ls
+ls
+ls
+ls 0a
+ls -a
+cd nvim
+cd .nvim
+git clone git@github.com:HagerPrograms/nvim.git .nvim
+nvim .
+nvim
+\:q
+ls
+cd src
+ls
+cd targets
+ls price
+py guesser.py
+pymon guesser.py
+lq
+lg
+cd src/targets/price
+cd ..
+pymon agent.py
+nvimconfig
+ls
+cd lua
+l
+ls
+nvim options.lua
+nvimconfig
+;s
+ls
+cd ..
+ls
+nvim old_nvim
+cd old_nvim
+ls
+nvim init.lua
