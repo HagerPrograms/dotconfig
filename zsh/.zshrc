@@ -2,6 +2,7 @@ export NVM_DIR="$HOME/.nvm"
 export ZSHRC_DIR=$HOME/.config/zsh/.zshrc
 export MANPAGER="nvim +Man!"
 export PATH="/Users/sethhager/Library/Python/3.9/bin:$PATH"
+export XDG_CONFIG_HOME=$HOME/.config
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 
